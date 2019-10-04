@@ -1,4 +1,4 @@
-FROM NODE:10
+FROM node:10
 #create working directory
 WORKDIR /usr/src/app
 # Install app dependencies
